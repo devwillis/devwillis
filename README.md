@@ -10,7 +10,7 @@
   <img align="center" alt="Wi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Wi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Wi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Wi-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/@me/1044453909902663730/1045727324441690122">
+  <img align="right" alt="Wi-pic" height="150" style="border-radius:50px;" src="https://instagram.ftfl4-1.fna.fbcdn.net/v/t51.2885-19/317047136_5581159995298409_4141177483484254412_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.ftfl4-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=DGpKICMcHIsAX-7aO6Q&edm=AAAAAAABAAAA&ccb=7-5&oh=00_AfAdvUf4_EGt3zPpXoYcrAdHo2vut5nFOftWetaUpn66Yw&oe=63897346&_nc_sid=022a36">
 </div>
   
   ##
@@ -23,6 +23,6 @@
   <a href = "mailto:willys.cardozo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/willis-felipe-chaves-cardoso" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/devwillis/devwillis/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
+  </div>
